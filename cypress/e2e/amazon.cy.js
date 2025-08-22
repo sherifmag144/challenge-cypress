@@ -9,7 +9,7 @@ describe("Amazon Egypt - Challenge 2", () => {
         sortDropdown: "#a-autoid-0-announce",
         sortHighToLow: "#s-result-sort-select_2",
         firstResult:
-            "div[class='s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1'] div[class='s-product-image-container aok-relative s-text-center s-image-overlay-grey puis-image-overlay-grey s-padding-left-small s-padding-right-small puis-spacing-small s-height-equalized puis puis-v365hjp1me5oim22zpg0wdt6yob']",
+            "h2[aria-label='Apple iPad Pro 13-inch (M4): Ultra Retina XDR display, 1TB, Landscape 12MP Front Camera/12MP Back Camera, Wi-Fi 6E + 5G Cellular with eSIM, All-Day Battery Life, Standard glass - Space Black']",
         productTitle: "#productTitle",
         productPrice: '#corePriceDisplay_desktop_feature_div [aria-hidden="true"]',
         addToCart: '[name="submit.add-to-cart"]',
