@@ -4,7 +4,7 @@ This project is set up with the following tools:
 
 - **ESLint** → To enforce consistent coding style and detect code issues early.
 - **Prettier** → To automatically format code and keep it clean and readable.
-- **Playwright (JavaScript)** → For end-to-end UI Automation.
+- **Cypress (JavaScript)** → For end-to-end UI Automation.
 
 ## Purpose
 
