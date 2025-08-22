@@ -33,7 +33,7 @@ or directly from package.json file (challengeOne)
 -Challenge 2
 File: `cypress/e2e/amazon.cy.js`
 directly from package.json file (testAmazon)
-or write in terminal npx cypress run --spec 'cypress/e2e/amazon.cy.js
+or write in terminal npx cypress run --spec 'cypress/e2e/amazon.cy.js or you can run from Cypress UI by npx cypress open
 and to show the report there is allure report i generated (allure-report\index.html) you can open the report directly or using the commands that generate and open allure report from Package.json file
 
 if you want to download the repo , you should install all devDependencies in Package.json by write in terminal "npm install" 
