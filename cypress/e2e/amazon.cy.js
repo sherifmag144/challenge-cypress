@@ -53,6 +53,8 @@ describe("Amazon Egypt - Challenge 2", () => {
                         const price = productPrice.trim();
 
                         // Add product to cart
+                        // eslint-disable-next-line
+                        cy.wait(3000);
                         cy.get(selectors.addToCart).click();
                         cy.get(selectors.declineWarranty).click();
                         cy.get(selectors.cartIcon).click();
